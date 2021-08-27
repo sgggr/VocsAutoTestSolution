@@ -321,8 +321,6 @@
     <Resource Include="Images\skin\ico\toolbar_hover.png" />
     <Resource Include="Images\skin\ico\toolbar_pushed.png" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="packages\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
